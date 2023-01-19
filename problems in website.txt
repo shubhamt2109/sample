@@ -1,0 +1,7 @@
+2. my profile info not saving   -- -ex -- incorrect syntax near
+3.password not updating in reset pass window via user login but checkboxes working properly
+4. password updating in rest pass without login but checkboxes didn't work.
+
+5. update all admin tables and kept the select and delect row code in it.
+
+6. drop the userdata table from sql
